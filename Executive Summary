@@ -1,0 +1,52 @@
+# 📋 Executive Summary
+
+**Project Title:** Mobile Sales Data Analysis – Interactive Dashboard Overview
+
+This interactive Power BI dashboard presents a comprehensive analysis of mobile sales across India, offering critical insights into product performance, regional demand, customer preferences, and payment behavior. The visualizations are designed to support data-driven decision-making for sales, marketing, and operations teams.
+
+---
+
+## 🔍 Key Insights
+
+### 1. **Revenue and Volume**
+
+* **Total Sales:** ₹769M with **19K units** sold across **4K transactions**.
+* **Average Revenue per Transaction:** ₹40K, indicating a focus on mid- to high-range product offerings.
+
+### 2. **Regional Performance**
+
+* **Top Cities by Sales:** Mumbai, Bangalore, and Hyderabad are leading in total revenue.
+* Cities like Delhi, Chennai, and Kolkata also contribute significantly.
+* **Business Opportunity:** Increase marketing efforts and stock levels in high-performing cities while launching targeted campaigns in underperforming areas like Kanpur and Lucknow to expand market reach.
+
+### 3. **Monthly Sales Trends**
+
+* Peak sales observed in **March, May, and August**, indicating potential seasonal demand or the impact of successful campaigns.
+* Dips in June and October suggest potential for targeted promotional strategies during these periods.
+
+### 4. **Top Performing Products**
+
+* **iPhone SE, OnePlus Nord, and Galaxy Note 20** rank as the most sold models.
+* **Strategy:** Focus marketing, bundling, and cross-selling around high-demand models to boost overall transaction value.
+
+### 5. **Customer Ratings**
+
+* High ratings (4 and 5 stars) dominate the dataset, reflecting strong customer satisfaction.
+* Products with lower ratings should be reviewed for potential improvements in features, support, or pricing.
+
+### 6. **Sales by Day of the Week**
+
+* **Monday and Friday** show the highest sales activity.
+* Weekends (Saturday and Sunday) show reduced sales.
+* **Strategy:** Run limited-time offers or targeted online promotions during weekends to drive more engagement and balance sales traffic.
+
+### 7. **Payment Method Trends**
+
+* Payment methods are well-distributed: **UPI (26.25%)**, **Credit Card (25.89%)**, **Cash (25.03%)**, and **Debit Card (22.83%)**.
+* **Strategy:** Encourage digital transactions through UPI/cashback partnerships to streamline processing and reduce operational costs.
+
+---
+
+**Conclusion:**
+This dashboard delivers a data-driven foundation for improving sales performance, enhancing customer satisfaction, and increasing operational efficiency. Retailers, analysts, and decision-makers can leverage these insights to build smarter strategies and stay competitive in the fast-evolving mobile retail market.
+
